@@ -1,0 +1,4 @@
+interface:
+  display_name: "Singapore Schools Nearby"
+  short_description: "Find Singapore schools near a postal code"
+  default_prompt: "Use $openclaw-singapore-schools to find primary and secondary schools within 1 km and 2 km of Singapore postal code 560123."
