@@ -12,7 +12,7 @@ Ask for a 6-digit Singapore postal code when the user does not provide one. Run 
 ## Workflow
 
 1. Ask for the postal code if it is missing.
-2. Run:
+2. Run the helper from inside this skill directory so the path stays relative as `scripts/...`:
 
 ```bash
 python3 scripts/find_nearby_schools.py <postal-code>
