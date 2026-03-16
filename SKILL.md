@@ -15,7 +15,7 @@ Ask for a 6-digit Singapore postal code when the user does not provide one. Run 
 2. Run:
 
 ```bash
-python3 /home/dreamtcs/.codex/skills/openclaw-singapore-schools/scripts/find_nearby_schools.py <postal-code>
+python3 scripts/find_nearby_schools.py <postal-code>
 ```
 
 3. Use `--format json` if you want machine-readable output before summarizing.
